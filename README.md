@@ -1,1 +1,1 @@
-# WiSHNets (Wide Single Hidden Layer Neural Networks
+# WiSHNets (Wide Single Hidden Layer Neural Networks)
